@@ -1,4 +1,4 @@
-# Big-Data-Analysis-Term-Project-PE
+# Big-Data-Analysis-Term-Project-2023
 This repository contains all the python notebooks, scrapped data and other requirements for the BIG DATA ANALYSIS (MA60306) TERM PROJECT for Spring Semester, 2023
 
 ## GOOGLE DRIVE LINKS
